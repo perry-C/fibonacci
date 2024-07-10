@@ -1,0 +1,14 @@
+/home/zed/code/work/rs_train/csharp_projects/Fibonacci/bin/Debug/net8.0/Fibonacci
+/home/zed/code/work/rs_train/csharp_projects/Fibonacci/bin/Debug/net8.0/Fibonacci.deps.json
+/home/zed/code/work/rs_train/csharp_projects/Fibonacci/bin/Debug/net8.0/Fibonacci.runtimeconfig.json
+/home/zed/code/work/rs_train/csharp_projects/Fibonacci/bin/Debug/net8.0/Fibonacci.dll
+/home/zed/code/work/rs_train/csharp_projects/Fibonacci/bin/Debug/net8.0/Fibonacci.pdb
+/home/zed/code/work/rs_train/csharp_projects/Fibonacci/obj/Debug/net8.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/zed/code/work/rs_train/csharp_projects/Fibonacci/obj/Debug/net8.0/Fibonacci.AssemblyInfoInputs.cache
+/home/zed/code/work/rs_train/csharp_projects/Fibonacci/obj/Debug/net8.0/Fibonacci.AssemblyInfo.cs
+/home/zed/code/work/rs_train/csharp_projects/Fibonacci/obj/Debug/net8.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/zed/code/work/rs_train/csharp_projects/Fibonacci/obj/Debug/net8.0/Fibonacci.dll
+/home/zed/code/work/rs_train/csharp_projects/Fibonacci/obj/Debug/net8.0/refint/Fibonacci.dll
+/home/zed/code/work/rs_train/csharp_projects/Fibonacci/obj/Debug/net8.0/Fibonacci.pdb
+/home/zed/code/work/rs_train/csharp_projects/Fibonacci/obj/Debug/net8.0/Fibonacci.genruntimeconfig.cache
+/home/zed/code/work/rs_train/csharp_projects/Fibonacci/obj/Debug/net8.0/ref/Fibonacci.dll
